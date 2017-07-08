@@ -15,8 +15,8 @@ Composants utilisés :
 5 cables male/male  
 4 cables femelle/femelle  
 
-Temps nécessaire au cablage : environ 5 minutes  
-Temps nécessaire au codage : environ 10 minutes  
+Temps nécessaire au cablage : **environ 5 minutes**  
+Temps nécessaire au codage : **environ 10 minutes**  
 
 **électronique & connectique :**  
 La masse est commune sortie de la borne GND (6)  
