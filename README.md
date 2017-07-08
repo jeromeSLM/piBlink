@@ -26,6 +26,6 @@ La troisième LED (bleue) sera alimentée via la borne 13
 coding :
 Le script blink_3led.py se lance via :
 sudo python blink_3led.py
-le script peut être trouvé ici : ![Alt text](/scripts/blink_3led.py "Script python")
+le script peut être trouvé ici : ![Script python](/scripts/blink_3led.py "Script python")
 
 ![Alt text](/images/montage%203%20leds.jpg?raw=true "Optional Title")
