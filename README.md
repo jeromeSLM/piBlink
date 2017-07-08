@@ -5,5 +5,4 @@ Ce projet décrit l'utilisation de leds avec un rapsberry type 1 à 3 avec broch
 
 Langage utilisé : Python
 
-![alt text](https://raw.githubusercontent.com/jeromeSLM/piBlink/branch/images/montage%203%20leds.jpg)
-
+![Alt text](/images/montage%203%20leds.jpg?raw=true "Optional Title")
