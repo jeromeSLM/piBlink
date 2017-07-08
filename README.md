@@ -7,7 +7,9 @@ Langage utilisé : Python
 Composants utilisés : 
 
 1 raspberry Pi (avec broches GPIO) avec raspbian installé sur la µSD
+
 1 breadboard
+
 3 leds (1 rouge, 1 jaune, 1 bleue)
 3 résistances 100 ohm ou + jusqu'à 330 ohm
 5 cables male/male
