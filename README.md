@@ -30,4 +30,8 @@ Le script blink_3led.py se lance via :
 
 le script peut être trouvé ici : ![Script python](/scripts/blink_3led.py "Script python")
 
+**Cablage**  
+![Cablage breadboard](/images/schema_blinkled3.png?raw=true "Cablage breadboard")
+
+
 ![Alt text](/images/montage%203%20leds.jpg?raw=true "Optional Title")
