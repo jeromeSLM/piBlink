@@ -3,7 +3,7 @@ LED Blink system for raspberry
 
 Ce projet décrit l'utilisation de leds avec un rapsberry type 1 à 3 avec broches GPIO
 
-Langage utilisé : Python
+Langage utilisé : Python\n
 Composants utilisés : 
 
 1 raspberry Pi (avec broches GPIO) avec raspbian installé sur la µSD
