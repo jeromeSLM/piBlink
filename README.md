@@ -12,13 +12,13 @@ Composants utilisés :
 
 1 breadboard
 
-3 leds (1 rouge, 1 jaune, 1 bleue)
-3 résistances 100 ohm ou + jusqu'à 330 ohm
-5 cables male/male
-4 cables femelle/femelle
+3 leds (1 rouge, 1 jaune, 1 bleue)  
+3 résistances 100 ohm ou + jusqu'à 330 ohm  
+5 cables male/male  
+4 cables femelle/femelle  
 
-Temps nécessaire au cablage : environ 5 minutes
-Temps nécessaire au codage : environ 10 minutes
+Temps nécessaire au cablage : environ 5 minutes  
+Temps nécessaire au codage : environ 10 minutes  
 
 Principe de base :
 électronique & connectique :
